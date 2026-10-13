@@ -24,7 +24,7 @@ export const Header: React.FC<HeaderProps> = ({
   onOpenSettings,
   hasApiKey,
   isCustomKey,
-  githubUrl = 'https://github.com/yashk230/ai-web-scraper',
+  githubUrl = 'https://github.com/DualSparkStudio/ai-web-scraper',
 }) => {
   return (
     <header className="sticky top-0 z-40 border-b border-slate-800/80 bg-slate-950/80 backdrop-blur-xl transition-all">

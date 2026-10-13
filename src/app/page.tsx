@@ -317,7 +317,7 @@ export default function Home() {
             </a>
             <span>•</span>
             <a
-              href="https://github.com/yashk230/ai-web-scraper"
+              href="https://github.com/DualSparkStudio/ai-web-scraper"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-indigo-400 transition-colors flex items-center gap-1"
